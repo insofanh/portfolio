@@ -15,7 +15,6 @@ const HomePage = () => {
       ${Home()}
         ${Process()}
         ${About()}
-       
         ${Skills()}
         ${Comments()}
         ${Blog()}

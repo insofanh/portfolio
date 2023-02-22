@@ -1,5 +1,7 @@
 const BlogAdd = () => {
-    return ` <div > BlogAdd < /div>`;
+    return `
+    
+    `;
 };
 
 export default BlogAdd;
