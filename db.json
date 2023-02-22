@@ -1,0 +1,51 @@
+{
+    "info": [{
+        "id": 3,
+        "name": "Ha Van Anh",
+        "title": "A Web Designer From FPT Polytechnic college",
+        "describe": "As a student studying Website Design at FPT Polytechnic College, I am always enthusiastic about the profession."
+    }],
+    "about": [{
+        "img": "./src/imgs/1.jpg",
+        "title": "I'm a Web Designer",
+        "slogan": "I Can Design Anything You Want",
+        "describe": "Hello there! I'm a web designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration."
+    }],
+    "skills": [{
+            "nameskills": "Javascript",
+            "percent": "80%"
+        },
+        {
+
+            "nameskills": "Photoshop",
+            "percent": "90%"
+        },
+        {
+
+            "nameskills": "Figma",
+            "percent": "70%"
+        }
+    ],
+    "comment": [{
+        "user": "Hieu",
+        "address": "Thuong Tin, Ha Noi",
+        "content": "I rarely like to write reviews, but the itemstore team truly deserve a standing ovation for their customer support, customisation and most importantly, friendliness and professionalism. Many thanks once again for everything and hope that I get to deal with you again in the near future."
+    }],
+    "blog": [{
+        "id": 1,
+        "img": "./src/imgs/1.jpg",
+        "title": "Web Devolopement",
+        "describe": "Jim Morisson Says when the musics over turn off the light"
+    }],
+
+    "blogdetails": [{
+        "id": 1,
+        "img": "./src/imgs/1.jpg",
+        "title": "Web Devolopement",
+        "detailstitle": "Creative Design",
+        "describe": "Jim Morisson Says when the musics over turn off the light",
+        "content": "I rarely like to write reviews, but the itemstore team truly deserve a standing ovation for their customer support, customisation and most importantly, friendliness and professionalism. Many thanks once again for everything and hope that I get to deal with you again in the near future."
+    }]
+
+
+}
